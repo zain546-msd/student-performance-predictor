@@ -39,7 +39,7 @@ using Logistic Regression on the UCI Student Performance Dataset.
 - 5-Fold Cross Validation
 
 ## How to Run
-1. Open the notebook on Kaggle: [Link here]
+1. Open the notebook on Kaggle: https://www.kaggle.com/code/zainkhan21705/student-performance-prediction
 2. Add dataset: `larsen0966/student-performance-data-set`
 3. Run all cells
 
